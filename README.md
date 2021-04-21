@@ -2,9 +2,6 @@
 
 React 17 Boilerplate with React 17, Webpack 5, Tailwind 2, HMR, using babel, Jest unit testing, sass, with a hot dev server and an optimized production build
 
-[Demo](https://dreamy-shirley-041c74.netlify.app/)
-
-Maintained by [Altafino - Full-Stack Go/JS Development](https://altafino.com)
 
 ## Last Changes (the newest first):
 - added full support for unit testing (with file mocks) using Jest
@@ -17,8 +14,8 @@ Maintained by [Altafino - Full-Stack Go/JS Development](https://altafino.com)
 ## Installation
 
 ```
-git clone https://github.com/altafino/react-webpack-5-tailwind-2.git
-cd react-webpack-5-tailwind-2
+git clone https://github.com/
+cd 
 yarn / npm i
 ```
 To use it for your own project the easiest way is to use the green Template Button on top right of this repo on Github.
